@@ -1,8 +1,11 @@
-## Hi there, My Name is Hadeer Salah. 👋
+# Hi there, I'm Hadeer Salah. 👋
 
-## I'm a passionate Front End React Developer 💫 
+I'm a passionate Front End React Developer 💫
 
-## My Skills are: JavaScript, SCSS, Tailwind CSS, React.JS, React Readux, recoil, ant design, Git & GitHub 💻
+## My Skills
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![SCSS](https://img.icons8.com/color/48/000000/sass.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) ![React](https://img.icons8.com/ultraviolet/40/000000/react.png) ![Redux](https://img.icons8.com/ultraviolet/40/000000/redux.png) ![Recoil](https://img.icons8.com/color/48/000000/recoil.png) ![Ant Design](https://img.icons8.com/color/48/000000/ant-design.png) ![GitHub](https://img.icons8.com/color/48/000000/github.png)
 
-## How to reach me: hadeersalah127@gmail 📧 www.linkedin.com/in/hadeer-salah-2b0798161 📬
+## How to reach me
+- Email: [hadeersalah127@gmail.com](mailto:hadeersalah127@gmail.com) 📧
+- LinkedIn: [www.linkedin.com/in/hadeer-salah-2b0798161](https://www.linkedin.com/in/hadeer-salah-2b0798161) 📬
 
