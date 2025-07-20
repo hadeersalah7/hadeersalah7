@@ -16,7 +16,9 @@ I'm a passionate Front End React Developer 💫
   <img src="https://www.vectorlogo.zone/logos/daisyui/daisyui-icon.svg" alt="daisyui" width="40" height="40" />
 </a>
 <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
-![GitHub](https://img.icons8.com/color/48/000000/github.png)
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" />
+</a> 
 
 ## How to reach me
 - Email: [hadeersalah127@gmail.com](mailto:hadeersalah127@gmail.com) 📧
