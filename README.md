@@ -21,9 +21,6 @@ I'm a passionate Front End React Developer 💫
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" />
 </a> 
 
-## Most used languages: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadeersalah7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## How to reach me
 - Email: [hadeersalah127@gmail.com](mailto:hadeersalah127@gmail.com) 📧
 - LinkedIn: [www.linkedin.com/in/hadeer-salah-2b0798161](https://www.linkedin.com/in/hadeer-salah-2b0798161) 📬
